@@ -1,5 +1,3 @@
-<%@ Page Language="VB" %>
-
 <!DOCTYPE html>
 
 <html>
