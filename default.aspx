@@ -1,11 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-  </body>
-</html>
+<%@ Page Language="VB" %>
 
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Hello, world!</title>
+</head>
+<body>
+    <h1><%="Hello, world!" %></h1>
+</body>
+</html>
 
